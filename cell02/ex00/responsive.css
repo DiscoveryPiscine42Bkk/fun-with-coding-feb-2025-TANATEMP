@@ -1,0 +1,14 @@
+table,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td{
+    width:50vw; 
+    height:100vh;
+}
+.cell1{
+    background-color: aquamarine;
+}
+.cell2{
+    background-color: teal;
+}
